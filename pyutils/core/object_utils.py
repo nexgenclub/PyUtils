@@ -1,10 +1,11 @@
 """
 Object utility functions for common operations on Python objects.
 """
+
 from typing import TypeVar, Optional
 
-T = TypeVar('T')
-U = TypeVar('U')
+T = TypeVar("T")
+U = TypeVar("U")
 
 
 def get_default_if_none(value: Optional[T], default: T) -> T:

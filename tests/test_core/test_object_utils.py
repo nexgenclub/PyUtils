@@ -1,6 +1,7 @@
 """
 Tests for object utility functions.
 """
+
 from pyutils.core.object_utils import get_default_if_none
 
 
