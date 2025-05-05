@@ -1,7 +1,7 @@
 """
 Object utility functions for common operations on Python objects.
 """
-from typing import Any, TypeVar, Optional, List, Dict, Callable, Type
+from typing import TypeVar, Optional
 
 T = TypeVar('T')
 U = TypeVar('U')
