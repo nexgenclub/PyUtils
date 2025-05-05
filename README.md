@@ -82,7 +82,7 @@ result = run_with_timeout(long_running_function, timeout_seconds=5)
 ## Getting Started
 
 ### Prerequisites
-- Python 3.7 or higher
+- Python 3.8 or higher
 
 ### Installation
 ```bash
