@@ -87,13 +87,13 @@ result = run_with_timeout(long_running_function, timeout_seconds=5)
 ### Installation
 ```bash
 # Not yet on PyPI - install from GitHub
-pip install git+https://github.com/your-organization/PyUtils.git
+pip install git+https://github.com/nexgenclub/PyUtils.git
 ```
 
 ### Building from Source
 ```bash
 # Clone the repository
-git clone https://github.com/your-organization/PyUtils.git
+git clone https://github.com/nexgenclub/PyUtils.git
 
 # Navigate to the project directory
 cd PyUtils
